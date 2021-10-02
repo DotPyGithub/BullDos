@@ -1,3 +1,6 @@
+#Author: Dot
+#Discord: Dot#1035
+
 import signal
 import time
 import socket
